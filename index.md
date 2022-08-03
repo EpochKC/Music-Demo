@@ -9,12 +9,12 @@
 1.
 <midi-player
   src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/A_0727/get_0.mid"
-  sound-font visualizer="#myVisualizer">
+  sound-font visualizer="#myStaffVisualizer">
 </midi-player>
 
-<midi-visualizer type="piano-roll" id="myPianoRollVisualizer" 
+<!-- <midi-visualizer type="piano-roll" id="myPianoRollVisualizer" 
   src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/A_0727/get_0.mid">
-</midi-visualizer>
+</midi-visualizer> -->
 
 <midi-visualizer type="staff" id="myStaffVisualizer" 
   src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/A_0727/get_0.mid">
@@ -26,9 +26,9 @@
   sound-font visualizer="#myVisualizer">
 </midi-player>
 
-<midi-visualizer type="piano-roll" id="myPianoRollVisualizer" 
+<!-- <midi-visualizer type="piano-roll" id="myPianoRollVisualizer" 
   src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/A_0727/get_1.mid">
-</midi-visualizer>
+</midi-visualizer> -->
 
 <midi-visualizer type="staff" id="myStaffVisualizer" 
   src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/A_0727/get_1.mid">
@@ -40,9 +40,9 @@
   sound-font visualizer="#myVisualizer">
 </midi-player>
 
-<midi-visualizer type="piano-roll" id="myPianoRollVisualizer" 
+<!-- <midi-visualizer type="piano-roll" id="myPianoRollVisualizer" 
   src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/A_0727/get_2.mid">
-</midi-visualizer>
+</midi-visualizer> -->
 
 <midi-visualizer type="staff" id="myStaffVisualizer" 
   src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/A_0727/get_2.mid">
@@ -54,9 +54,9 @@
   sound-font visualizer="#myVisualizer">
 </midi-player>
 
-<midi-visualizer type="piano-roll" id="myPianoRollVisualizer" 
+<!-- <midi-visualizer type="piano-roll" id="myPianoRollVisualizer" 
   src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/A_0727/get_3.mid">
-</midi-visualizer>
+</midi-visualizer> -->
 
 <midi-visualizer type="staff" id="myStaffVisualizer" 
   src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/A_0727/get_3.mid">
@@ -68,9 +68,9 @@
   sound-font visualizer="#myVisualizer">
 </midi-player>
 
-<midi-visualizer type="piano-roll" id="myPianoRollVisualizer" 
+<!-- <midi-visualizer type="piano-roll" id="myPianoRollVisualizer" 
   src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/A_0727/get_4.mid">
-</midi-visualizer>
+</midi-visualizer> -->
 
 <midi-visualizer type="staff" id="myStaffVisualizer" 
   src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/A_0727/get_4.mid">
