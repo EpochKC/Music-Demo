@@ -8,7 +8,7 @@
 
 <midi-player
   src="https://github.com/EpochKC/Music-Demo/blob/main/A_0727/get_0.mid?raw=true"
-  sound-font visualizer="#myPianoRollVisualizer">
+  sound-font visualizer="#myVisualizer">
 </midi-player>
 
 <midi-visualizer type="piano-roll" id="myPianoRollVisualizer" 
@@ -21,7 +21,7 @@
 
 <midi-player
   src="https://github.com/EpochKC/Music-Demo/blob/main/A_0727/get_0.mid"
-  sound-font visualizer="#myPianoRollVisualizer">
+  sound-font visualizer="#myVisualizer">
 </midi-player>
 
 <midi-visualizer type="piano-roll" id="myPianoRollVisualizer" 
