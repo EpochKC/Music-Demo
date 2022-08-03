@@ -4,3 +4,5 @@
   sound-font visualizer="#myVisualizer">
 </midi-player>
 <midi-visualizer type="piano-roll" id="myVisualizer"></midi-visualizer>
+
+
