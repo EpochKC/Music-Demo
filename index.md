@@ -7,6 +7,19 @@
 <midi-visualizer type="piano-roll" id="myVisualizer"></midi-visualizer>
 
 <midi-player
+  src="https://github.com/EpochKC/Music-Demo/blob/main/A_0727/get_0.mid?raw=true"
+  sound-font visualizer="#myPianoRollVisualizer">
+</midi-player>
+
+<midi-visualizer type="piano-roll" id="myPianoRollVisualizer" 
+  src="https://github.com/EpochKC/Music-Demo/blob/main/A_0727/get_0.mid?raw=true">
+</midi-visualizer>
+
+<midi-visualizer type="staff" id="myStaffVisualizer" 
+  src="https://github.com/EpochKC/Music-Demo/blob/main/A_0727/get_0.mid?raw=true">
+</midi-visualizer>
+
+<midi-player
   src="https://github.com/EpochKC/Music-Demo/blob/main/A_0727/get_0.mid"
   sound-font visualizer="#myPianoRollVisualizer">
 </midi-player>
