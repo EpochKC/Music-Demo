@@ -144,35 +144,35 @@
     <tr>
         <td>21</td>
         <td><midi-player
-          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/E_gpt/get_0.mid"
+          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/E_gpt/gen_0.mid"
           sound-font visualizer="#E0">
         </midi-player></td>
     </tr>
     <tr>
         <td>22</td>
         <td><midi-player
-          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/E_gpt/get_1.mid"
+          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/E_gpt/gen_1.mid"
           sound-font visualizer="#E1">
         </midi-player></td>
     </tr>
     <tr>
         <td>23</td>
         <td><midi-player
-          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/E_gpt/get_2.mid"
+          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/E_gpt/gen_2.mid"
           sound-font visualizer="#E2">
         </midi-player></td>
     </tr>
     <tr>
         <td>24</td>
         <td><midi-player
-          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/E_gpt/get_3.mid"
+          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/E_gpt/gen_3.mid"
           sound-font visualizer="#E3">
         </midi-player></td>
     </tr>
     <tr>
         <td>25</td>
         <td><midi-player
-          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/E_gpt/get_4.mid"
+          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/E_gpt/gen_4.mid"
           sound-font visualizer="#E4">
         </midi-player></td>
     </tr>
