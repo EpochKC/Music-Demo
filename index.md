@@ -1,7 +1,7 @@
 <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
 
 評分網址：
-<a href="https://forms.gle/k488PYeEGN4uNKnu7" target="_blank">https://forms.gle/k488PYeEGN4uNKnu7</a>
+<a href="https://forms.gle/5s2d85CNpaiKZec39" target="_blank">https://forms.gle/5s2d85CNpaiKZec39</a>
 
 <table>
     <tr>
@@ -12,8 +12,8 @@
       </midi-player></th>
       <td>2</td>
       <td><midi-player
-        src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/A_0727/get_1.mid"
-        sound-font visualizer="#A1">
+        src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/F/gen_0.mid"
+        sound-font visualizer="#F0">
       </midi-player></td>
       <td>3</td>
       <td><midi-player
@@ -44,8 +44,8 @@
         </midi-player></td>
         <td>8</td>
         <td><midi-player
-          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/B_0728/get_2.mid"
-          sound-font visualizer="#B2">
+          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/F/gen_1.mid"
+          sound-font visualizer="#F1">
         </midi-player></td>
         <td>9</td>
         <td><midi-player
@@ -76,8 +76,8 @@
         </midi-player></td>
         <td>14</td>
         <td><midi-player
-          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/C_0729/get_3.mid"
-          sound-font visualizer="#C3">
+          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/F/gen_2.mid"
+          sound-font visualizer="#F2">
         </midi-player></td>
         <td>15</td>
         <td><midi-player
@@ -115,8 +115,8 @@
     <tr>
         <td>21</td>
         <td><midi-player
-          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/E_gpt/gen_0.mid"
-          sound-font visualizer="#E0">
+          src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/F/gen_3.mid"
+          sound-font visualizer="#F3">
         </midi-player></td>
         <td>22</td>
         <td><midi-player
@@ -139,4 +139,31 @@
           sound-font visualizer="#E4">
         </midi-player></td>
     </tr>
+    <tr>
+      <td>21</td>
+      <td><midi-player
+        src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/A_0727/get_1.mid"
+        sound-font visualizer="#A1">
+      </midi-player></td>
+      <td>22</td>
+      <td><midi-player
+        src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/B_0728/get_2.mid"
+        sound-font visualizer="#B2">
+      </midi-player></td>
+      <td>23</td>
+      <td><midi-player
+        src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/C_0729/get_3.mid"
+        sound-font visualizer="#C3">
+      </midi-player></td>
+      <td>24</td>
+      <td><midi-player
+        src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/E_gpt/gen_0.mid"
+        sound-font visualizer="#E0">
+      </midi-player></td>
+      <td>25</td>
+      <td><midi-player
+        src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/F/gen_4.mid"
+        sound-font visualizer="#F4">
+      </midi-player></td>
+  </tr>
 </table>
