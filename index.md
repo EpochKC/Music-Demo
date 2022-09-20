@@ -1,7 +1,7 @@
 <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
 
 評分網址：
-<a href="https://forms.gle/WTBRUit4NXYCqcpH7" target="_blank">https://forms.gle/5s2d85CNpaiKZec39</a>
+<a href="https://forms.gle/5wiV1krU44XN9BcY6" target="_blank">https://forms.gle/5s2d85CNpaiKZec39</a>
 
 <!-- "https://raw.githubusercontent.com/EpochKC/Music-Demo/main/Testing_2_0919/original/get_10.mid"
 "https://raw.githubusercontent.com/EpochKC/Music-Demo/main/Testing_2_0919/original/get_24.mid"
