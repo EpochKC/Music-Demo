@@ -49,8 +49,8 @@
     <tr>
       <td>1</td>
       <th><midi-player
-        src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/Testing_2_0919/original/get_10.mid"
-        sound-font visualizer="#o">
+        src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/Testing_2_0919/do/get_51.mid"
+        sound-font visualizer="#do">
       </midi-player></th>
       <td>2</td>
       <td><midi-player
@@ -59,13 +59,13 @@
       </midi-player></td>
       <td>3</td>
       <td><midi-player
-        src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/Testing_2_0919/d3o/E9_0830_get_6.mid"
+        src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/Testing_2_0919/d3o/E9_0911_get_6.mid"
         sound-font visualizer="#d3o">
       </midi-player></td>
       <td>4</td>
       <td><midi-player
-        src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/Testing_2_0919/do/get_51.mid"
-        sound-font visualizer="#do">
+        src="https://raw.githubusercontent.com/EpochKC/Music-Demo/main/Testing_2_0919/original/get_10.mid"
+        sound-font visualizer="#o">
       </midi-player></td>
       <td>5</td>
       <td><midi-player
