@@ -1,5 +1,5 @@
 評分網址：
-<a href="https://forms.gle/5wiV1krU44XN9BcY6" target="_blank">https://forms.gle/5s2d85CNpaiKZec39</a>
+<a href="https://forms.gle/v96tygbrQiYnyg5F8" target="_blank">https://forms.gle/v96tygbrQiYnyg5F8</a>
 
 
 <!-- "https://raw.githubusercontent.com/EpochKC/Music-Demo-3/D5N/d5n_get_5.mp3" -->
@@ -291,7 +291,7 @@
         type="audio/mpeg">
         <!-- d3n -->
        </audio></th>
-      <td>36</td>
+      <td>-</td>
       <!-- <td><audio controls autoplay>
         <source src="https://raw.githubusercontent.com/EpochKC/Music-Demo-3/d5o/E28_get_193.mp3"
         type="audio/mpeg">
